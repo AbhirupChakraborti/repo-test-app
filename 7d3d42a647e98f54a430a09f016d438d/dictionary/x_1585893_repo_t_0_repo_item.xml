@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="7ba0166e47e98f54a430a09f016d43d8" label="Repo Item" max_length="40" name="x_1585893_repo_t_0_repo_item" type="collection">
         <element label="Descrption" max_length="100" name="descrption" type="string"/>
+        <element choice="3" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Open" sequence="0" value="open"/>
+                <element inactive_on_update="false" label="Closed" sequence="1" value="closed"/>
+            </choice>
+        </element>
     </element>
 </database>
