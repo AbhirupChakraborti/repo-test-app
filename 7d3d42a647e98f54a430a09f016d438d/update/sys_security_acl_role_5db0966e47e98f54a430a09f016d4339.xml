@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-21 07:43:31</sys_created_on>
+        <sys_id>5db0966e47e98f54a430a09f016d4339</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1585893_repo_t_0_repo_item.x_1585893_repo_t_0.user</sys_name>
+        <sys_package display_value="Repo Test App" source="x_1585893_repo_t_0">7d3d42a647e98f54a430a09f016d438d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Repo Test App">7d3d42a647e98f54a430a09f016d438d</sys_scope>
+        <sys_security_acl display_value="x_1585893_repo_t_0_repo_item">cdb0966e47e98f54a430a09f016d4332</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5db0966e47e98f54a430a09f016d4339</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-21 07:43:31</sys_updated_on>
+        <sys_user_role display_value="x_1585893_repo_t_0.user" name="x_1585893_repo_t_0.user">863d82a647e98f54a430a09f016d43c7</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
